@@ -30,7 +30,7 @@ This project utilizes a CSV file named "zomato-mini.csv" containing information 
    - Ensure the "zomato-mini.csv" file is present in the project directory and contains the required restaurant data.
 
 2. **ChatGPT API Key:**
-   - Obtain a ChatGPT API key from OpenAI and replace the placeholder in the ".env" file with your actual key. (As of 1-Nov-'23, the API has free-trial.)
+   - Obtain a ChatGPT API key from OpenAI and replace the placeholder in the ".env" file with your actual key. Get your own API key from here -          https://platform.openai.com/api-keys (As of 1-Nov-'23, it has free-trial.)
 
 3. **Dependencies:**
    - Make sure to install the necessary Python libraries by running the following command:
